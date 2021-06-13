@@ -1,6 +1,7 @@
 <?php
 
-namespace App\Lib\EasyStore;
+namespace EasyStore;
+
 
 class Http
 {

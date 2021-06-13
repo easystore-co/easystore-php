@@ -1,8 +1,6 @@
 <?php
 
-namespace App\Lib\EasyStore;
-
-use App\Lib\EasyStore\Resources\Store;
+namespace EasyStore;
 
 
 class EasyStore

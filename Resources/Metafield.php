@@ -1,8 +1,8 @@
 <?php
 
-namespace App\Lib\EasyStore\Resources;
+namespace EasyStore\Resources;
 
-use App\Lib\EasyStore\Http;
+use EasyStore\Http;
 
 class Metafield
 {
