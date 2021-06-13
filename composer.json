@@ -1,0 +1,15 @@
+{
+  "name": "easystore-co/storefront-api-php-sdk",
+  "type": "library",
+  "description": "This PHP package for ease to call our storefront api",
+  "homepage": "https://www.easystore.co",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Lee Yoon Sin",
+      "email": "sin@easystore.co",
+      "homepage": "https://www.easystore.co",
+      "role": "Developer"
+    }
+  ]
+}
