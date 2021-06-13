@@ -5,7 +5,7 @@
   "homepage": "https://www.easystore.co",
   "license": "MIT",
   "require": {
-    "php": ">=7.4"
+    "php": ">=7.2"
   },
   "authors": [
     {
