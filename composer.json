@@ -1,5 +1,5 @@
 {
-  "name": "easystore-co/storefront-api-php-sdk",
+  "name": "easystore-co/easystore-php",
   "type": "library",
   "description": "This PHP package for ease to call our storefront api",
   "homepage": "https://www.easystore.co",
@@ -14,5 +14,15 @@
       "homepage": "https://www.easystore.co",
       "role": "Developer"
     }
-  ]
+  ],
+  "keywords": [
+    "easystore",
+    "ecommerce",
+    "api"
+  ],
+  "autoload": {
+    "psr-4": {
+      "EasyStore\\": "/"
+    }
+  }
 }
